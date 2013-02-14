@@ -54,7 +54,7 @@
 					<?
 						echo "1.";
 					?>
-						<a href="/">Afrikasvenskarnas riksförbund entrar riksdagen</a>
+						<a href="/">Afrikasvenskarnas riksförbund entrar</a>
 					</p>
 					<img src="images/image1.jpg">
 					<p>					

@@ -1,6 +1,6 @@
 ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="sv" xml:lang="sv">
 	<head>
 		<meta charset="utf-8" />
 
@@ -30,9 +30,21 @@
 			</div>
 			<div class="nav">
 				<div class="container">
-					<p>
-						<a href="/contact">Contact</a>
-					</p>
+					<ol id="toc">
+						<li>
+							<a href="/contact"><span>Om Oss</span></a>
+						</li>
+						<li>
+							<a href="/contact"><span>Produkter</span></a>
+						</li>
+						<li>
+							<a href="/contact"><span>Samarbeten</span></a>
+						</li>
+						<li>
+							<a href="/contact"><span>Kontakt</span></a>
+						</li>
+						<span class="clear"></span>
+					</ol>
 				</div>
 			</div>
 
